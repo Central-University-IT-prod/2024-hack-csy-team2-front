@@ -1,0 +1,60 @@
+.products-list-container {
+    max-width: 100%;
+    margin: 20px;
+    padding: 20px;
+    background-color: #e3efed;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.products-title {
+    margin-bottom: 40px;
+}
+
+.lessThanFour {
+    background-color: #F6AE2D;
+}
+
+.lessThanTwo {
+    background-color: #fa2121;
+}
+
+.ant-list-item {
+    margin: 15px 0px 15px 0px;
+    padding: 0px;
+    border-radius: 20px;
+}
+
+.product {
+    padding-left: 10px;
+}
+
+.txt {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    padding-right: 35px;
+    font-size: 16px;
+}
+
+.av {
+    font-size: 20px;
+    padding-left: 12px;
+}
+
+:where(.css-dev-only-do-not-override-vryruh).ant-space-gap-col-small {
+    column-gap: 30px;
+}
+
+:where(.css-dev-only-do-not-override-vryruh).ant-list .ant-list-item .ant-list-item-meta .ant-list-item-meta-title {
+    margin: 0 0 4px 0;
+    font-size: 17px;
+    line-height: 1.5714285714285714;
+}
+
+.button {
+    margin-right: 50px;
+}
+
+:where(.css-dev-only-do-not-override-vryruh).ant-btn-color-dangerous.ant-btn-variant-solid {
+    color: #fff;
+    background: #8e8b8b;
+}
